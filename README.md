@@ -145,7 +145,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-# 📌 Autor
+# 📌 Autores
 
 Desenvolvido por:
 
