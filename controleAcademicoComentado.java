@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class controleAcademico {
     public static void main(String[] args) {
-        try (Scanner entrada = new Scanner(System.in)) {
+        Scanner entrada = new Scanner(System.in);
             double[] pesos = new double[4];
             double[][] notas;
             double[] medias;
@@ -149,7 +149,6 @@ public class controleAcademico {
     public static int lerInteiro(Scanner entrada) {
         return entrada.nextInt();
     }
-}
 
 /*
 EXPLICACAO DO CODIGO
